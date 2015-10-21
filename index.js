@@ -1,5 +1,5 @@
 var React = require('react');
-var accept = require('attr-accept');
+var accept = require('attr-accept')['react-attr'];
 
 var Dropzone = React.createClass({
 
